@@ -1,0 +1,450 @@
+.market {
+    color: #664f02;
+}
+.zoomarket-title {
+    position: absolute;
+    top: 7px;
+    left: 14px;
+    line-height: 40px;
+    font-family: Roboto;
+    display: inline-block;
+    width: 103px;
+    height: 17px;
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.3)) drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.15));
+}
+.navigation {
+    position: absolute;
+    top: 13px;
+    left: 969px; 
+    font-size: 11px;
+    line-height: 20px;
+    
+}
+.nav-item {
+    display: inline-block;
+    margin-right: 100px; 
+}
+.nav-item {
+    display: inline-block;
+    margin-right: 100px; 
+}
+.nav-item:last-child {
+    font-size: 13px;
+    text-decoration: underline;
+    color: #000;
+}
+.zoomarket-container {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 55px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #053f0e;
+    font-family: 'JetBrains Mono';
+}
+.frame-child {
+    position: absolute;
+    top: 69px;
+    left: 0px;
+    width: 509px;
+    height: 574px;
+    object-fit: cover;
+}
+.royal-caninr-mini {
+    margin: 0;
+}
+.royal-caninr-mini-container {
+    position: absolute;
+    top: 152px;
+    left: 600px;
+    font-size: 15px;
+    line-height: 20px;
+    display: inline-block;
+    width: 354px;
+    height: 292px;
+}
+.div {
+    position: absolute;
+    top: 103px;
+    left: 600px;
+    font-size: 32px;
+    line-height: 20px;
+    display: inline-block;
+    width: 160px;
+    height: 28px;
+}
+.div1 {
+    position: absolute;
+    top: 482px;
+    left: 600px;
+    font-size: 32px;
+    line-height: 20px;
+    display: inline-block;
+    width: 119px;
+    height: 30px;
+}
+.epa-dha-container {
+    position: absolute;
+    top: 518px;
+    left: 600px;
+    font-size: 15px;
+    line-height: 20px;
+    display: inline-block;
+    width: 443px;
+    height: 250px;
+}
+.frame-item {
+    position: absolute;
+    top: 31px;
+    left: 1332px;
+    width: 139px;
+    height: 43px;
+}
+.frame-inner {
+    position: absolute;
+    top: 31px;
+    left: 1717px;
+    width: 139px;
+    height: 43px;
+}
+.div2 {
+    position: absolute;
+    top: 41px;
+    left: 1362px;
+    font-size: 24px;
+    line-height: 20px;
+    color: #fff0f0;
+    display: inline-block;
+    width: 79px;
+    height: 20px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 31px;
+    left: 1571px;
+    width: 49px;
+    height: 43px;
+}
+.archive-icon {
+    position: absolute;
+    top: 36px;
+    left: 1584px;
+    width: 26px;
+    height: 33px;
+    overflow: hidden;
+}
+.div3 {
+    position: absolute;
+    top: 35px;
+    left: 1751px;
+    font-size: 20px;
+    text-decoration: underline;
+    color: #fff5f5;
+    display: inline-block;
+    width: 91px;
+    height: 20px;
+}
+.div4 {
+    position: absolute;
+    top: 103px;
+    left: 1316px;
+    font-size: 32px;
+    line-height: 20px;
+    display: inline-block;
+    width: 298px;
+    height: 43px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 148px;
+    left: 1309px;
+    background-color: #d9d9d9;
+    width: 343px;
+    height: 16px;
+}
+.div5 {
+    position: absolute;
+    top: 146px;
+    left: 1316px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 331px;
+    height: 20px;
+}
+.div6 {
+    position: absolute;
+    top: 171px;
+    left: 1363px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 235px;
+    height: 20px;
+}
+.div7 {
+    position: absolute;
+    top: 346px;
+    left: 1363px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 235px;
+    height: 20px;
+}
+.div8 {
+    position: absolute;
+    top: 316px;
+    left: 1363px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 235px;
+    height: 20px;
+}
+.div900 {
+    position: absolute;
+    top: 287px;
+    left: 1363px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 235px;
+    height: 20px;
+}
+.div1000 {
+    position: absolute;
+    top: 258px;
+    left: 1363px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 235px;
+    height: 20px;
+}
+.div11 {
+    position: absolute;
+    top: 229px;
+    left: 1363px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 235px;
+    height: 20px;
+}
+.div12 {
+    position: absolute;
+    top: 200px;
+    left: 1363px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 235px;
+    height: 20px;
+}
+.line-icon {
+    position: absolute;
+    top: 190.94px;
+    left: 1309px;
+    width: 343px;
+    height: 0.1px;
+    object-fit: contain;
+}
+.frame-child1 {
+    position: absolute;
+    top: 224px;
+    left: 1309px;
+    width: 343px;
+    height: 0.1px;
+    object-fit: contain;
+}
+.frame-child2 {
+    position: absolute;
+    top: 253px;
+    left: 1309px;
+    width: 343px;
+    height: 0.1px;
+    object-fit: contain;
+}
+.frame-child3 {
+    position: absolute;
+    top: 283px;
+    left: 1309px;
+    width: 343px;
+    height: 0.1px;
+    object-fit: contain;
+}
+.frame-child4 {
+    position: absolute;
+    top: 312px;
+    left: 1309px;
+    width: 343px;
+    height: 0.1px;
+    object-fit: contain;
+}
+.frame-child500 {
+    position: absolute;
+    top: 341px;
+    left: 1309px;
+    width: 343px;
+    height: 0.1px;
+    object-fit: contain;
+}
+.frame-child600 {
+    position: absolute;
+    top: 371px;
+    left: 1311px;
+    width: 343px;
+    height: 0.1px;
+    object-fit: contain;
+}
+.frame-child700 {
+    position: absolute;
+    top: 147.53px;
+    left: 1310px;
+    width: 342px;
+    height: 0.5px;
+    object-fit: contain;
+}
+.frame-child8 {
+    position: absolute;
+    top: 148px;
+    left: 1310px;
+    width: 1px;
+    height: 223px;
+    object-fit: contain;
+}
+.frame-child9 {
+    position: absolute;
+    top: 147px;
+    left: 1652px;
+    width: 1px;
+    height: 224px;
+    object-fit: contain;
+}
+.frame-child10 {
+    position: absolute;
+    top: 444px;
+    left: 1224px;
+    width: 632px;
+    height: 298px;
+    object-fit: cover;
+}
+.rectangle-parent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 780px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #000;
+    font-family: 'JetBrains Mono';
+}
+.div9 {
+    position: absolute;
+    top: 18px;
+    left: 93px;
+    display: inline-block;
+    width: 131px;
+    height: 22px;
+}
+.frame-child5 {
+    position: absolute;
+    top: 37px;
+    left: 107px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.frame-item1 {
+    position: absolute;
+    top: 37px;
+    left: 143px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.frame-inner1 {
+    position: absolute;
+    top: 37px;
+    left: 179px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.div10 {
+    position: absolute;
+    top: 79px;
+    left: 93px;
+    color: #292929;
+    display: inline-block;
+    width: 137px;
+    height: 19px;
+}
+.rectangle-icon1 {
+    position: absolute;
+    top: 102px;
+    left: 107px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.frame-child6 {
+    position: absolute;
+    top: 102px;
+    left: 143px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.frame-child7 {
+    position: absolute;
+    top: 106px;
+    left: 179px;
+    width: 22px;
+    height: 23px;
+    object-fit: cover;
+}
+.market1 {
+    color: #664f02;
+}
+.zoomarket1 {
+    position: absolute;
+    top: 56px;
+    left: 898px;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: Roboto;
+    display: inline-block;
+    width: 103px;
+    height: 29px;
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.3)) drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.15));
+    color: #053f0e;
+}
+.zoomarket2 {
+    position: absolute;
+    top: 110px;
+    left: 1670px;
+    font-size: 10px;
+    color: #2f2e2e;
+    display: inline-block;
+    width: 225px;
+    height: 10px;
+}
+.parent1 {
+    width: 100%;
+    position: relative;
+    background-color: #b9b7b7;
+    height: 142px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 15px;
+    color: #474747;
+    font-family: 'JetBrains Mono';
+}
+
+
+

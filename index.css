@@ -1,0 +1,412 @@
+.wrapper {
+    width: 40%;
+    max-width: 2000px;
+}
+.parent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 53px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #000;
+    font-family: Roboto;
+}
+
+.navigation a {
+    position: absolute;
+    text-decoration: underline;
+    line-height: 40px;
+    display: inline-block;
+    height: 40px;
+}
+
+.navigation .main {
+    top: 6px;
+    left: 900px;
+    width: 85px;
+}
+.navigation .dogs {
+    top: 6px;
+    left: 1201px;
+    width: 85px;
+}
+
+.navigation .cats {
+    top: 6px;
+    left: 1472px;
+    width: 100px;
+}
+
+.navigation .other-pets {
+    top: 6px;
+    left: 1735px;
+    width: 150px;
+}
+
+.zoomarket {
+    position: absolute;
+    top: 4px;
+    left: 87px;
+    font-size: 20px;
+    line-height: 40px;
+    display: inline-block;
+    width: 103px;
+    height: 31px;
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.3)) drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.15));
+    color: #053f0e;
+}
+
+.market {
+    color: #664f02;
+}
+.frame-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #4464d0;
+    width: 1920px;
+    height: 702px;
+}
+.frame-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 504px;
+    object-fit: cover;
+}
+.span {
+    color: #e1b00c;
+}
+.p {
+    margin: 0;
+}
+.div {
+    position: absolute;
+    top: 509px;
+    left: 96px;
+    display: inline-block;
+    width: 444px;
+    height: 182px;
+    color: #ccc;
+}
+.frame-inner {
+    position: absolute;
+    top: 555px;
+    left: 1283px;
+    width: 255px;
+    height: 60px;
+}
+.a {
+    position: absolute;
+    top: 573px;
+    left: 1334px;
+    text-decoration: underline;
+    color: inherit;
+    display: inline-block;
+    width: 204px;
+    height: 24px;
+}
+.span1 {
+    color: #044667;
+}
+.div1 {
+    position: absolute;
+    top: 1160px;
+    left: 885px;
+    font-size: 40px;
+    font-family: Inter;
+    display: inline-block;
+    width: 305px;
+    height: 42px;
+}
+.div2 {
+    position: absolute;
+    top: 862px;
+    left: 153px;
+    font-size: 24px;
+    text-decoration: underline;
+    font-family: Inspiration;
+    display: inline-block;
+    width: 104px;
+    height: 22px;
+}
+.div3 {
+    position: absolute;
+    top: 851px;
+    left: 1115px;
+    font-size: 24px;
+    text-decoration: underline;
+    font-family: Inspiration;
+    display: inline-block;
+    width: 126px;
+    height: 51px;
+}
+.div4 {
+    position: absolute;
+    top: 845px;
+    left: 1654px;
+    font-size: 24px;
+    text-decoration: underline;
+    font-family: Inspiration;
+    display: inline-block;
+    width: 128px;
+    height: 60px;
+}
+.div5 {
+    position: absolute;
+    top: 862px;
+    left: 714px;
+    font-size: 24px;
+    text-decoration: underline;
+    font-family: Inspiration;
+    display: inline-block;
+    width: 104px;
+    height: 26px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 1838px;
+    left: 111px;
+    width: 477px;
+    height: 252px;
+}
+.span2 {
+    color: #000;
+}
+.div6 {
+    position: absolute;
+    top: 1861px;
+    left: 138px;
+    display: inline-block;
+    width: 423px;
+    height: 24px;
+    color: #0838d4;
+}
+.div7 {
+    position: absolute;
+    top: 1918px;
+    left: 138px;
+    display: inline-block;
+    width: 423px;
+    height: 60px;
+    color: #0838d4;
+}
+.span4 {
+    color: #0838d4;
+}
+.span5 {
+    white-space: pre-wrap;
+}
+.p3 {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.div8 {
+    position: absolute;
+    top: 2011px;
+    left: 138px;
+    display: inline-block;
+    width: 437px;
+    height: 60px;
+}
+.frame-child1 {
+    position: absolute;
+    top: 1838px;
+    left: 1300px;
+    width: 476px;
+    height: 252px;
+    object-fit: cover;
+}
+.d-avatars-14 {
+    position: absolute;
+    top: 829px;
+    left: 37px;
+    width: 101px;
+    height: 93px;
+    object-fit: cover;
+}
+.d-avatars-28 {
+    position: absolute;
+    top: 829px;
+    left: 999px;
+    width: 101px;
+    height: 93px;
+    object-fit: cover;
+}
+.d-avatars-22 {
+    position: absolute;
+    top: 829px;
+    left: 1538px;
+    width: 101px;
+    height: 93px;
+    object-fit: cover;
+}
+.d-avatars-26 {
+    position: absolute;
+    top: 829px;
+    left: 590px;
+    width: 101px;
+    height: 93px;
+    object-fit: cover;
+}
+.frame-icon {
+    position: absolute;
+    top: 0px;
+    left: 643px;
+    width: 547px;
+    height: 317px;
+    overflow-x: auto;
+    object-fit: cover;
+}
+.frame-child2 {
+    position: absolute;
+    top: 0px;
+    left: 1300px;
+    width: 547px;
+    height: 317px;
+    overflow-x: auto;
+    object-fit: cover;
+}
+.frame-child3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 547px;
+    height: 317px;
+    overflow-x: auto;
+    object-fit: cover;
+}
+.frame-child4 {
+    position: absolute;
+    top: 3px;
+    left: 1920px;
+    width: 547px;
+    height: 317px;
+    overflow-x: auto;
+    object-fit: cover;
+}
+.frame-parent {
+    position: absolute;
+    top: 1413px;
+    left: 0px;
+    width: 1920px;
+    height: 317px;
+    overflow-x: auto;
+}
+.rectangle-parent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2180px;
+    text-align: left;
+    font-size: 20px;
+    color: #000;
+    font-family: 'JetBrains Mono';
+}
+.div9 {
+    position: absolute;
+    top: 18px;
+    left: 93px;
+    display: inline-block;
+    width: 131px;
+    height: 22px;
+}
+.frame-child5 {
+    position: absolute;
+    top: 37px;
+    left: 107px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.frame-item1 {
+    position: absolute;
+    top: 37px;
+    left: 143px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.frame-inner1 {
+    position: absolute;
+    top: 37px;
+    left: 179px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.div10 {
+    position: absolute;
+    top: 79px;
+    left: 93px;
+    color: #292929;
+    display: inline-block;
+    width: 137px;
+    height: 19px;
+}
+.rectangle-icon1 {
+    position: absolute;
+    top: 102px;
+    left: 107px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.frame-child6 {
+    position: absolute;
+    top: 102px;
+    left: 143px;
+    width: 22px;
+    height: 27px;
+    object-fit: cover;
+}
+.frame-child7 {
+    position: absolute;
+    top: 106px;
+    left: 179px;
+    width: 22px;
+    height: 23px;
+    object-fit: cover;
+}
+.market1 {
+    color: #664f02;
+}
+.zoomarket1 {
+    position: absolute;
+    top: 56px;
+    left: 898px;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: Roboto;
+    display: inline-block;
+    width: 103px;
+    height: 29px;
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.3)) drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.15));
+    color: #053f0e;
+}
+.zoomarket2 {
+    position: absolute;
+    top: 110px;
+    left: 1670px;
+    font-size: 10px;
+    color: #2f2e2e;
+    display: inline-block;
+    width: 225px;
+    height: 10px;
+}
+.parent1 {
+    width: 100%;
+    position: relative;
+    background-color: #b9b7b7;
+    height: 142px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 15px;
+    color: #474747;
+    font-family: 'JetBrains Mono';
+}
+
+
